@@ -26,8 +26,12 @@ Na função ```procurarAmplFinal()```, ao detectar 3000 ou mais amplitudes menor
 O que ficar entre ```procurarAmplInicial()``` e ```procurarAmplFinal()```, será uma fala.
 O programa pode separar palavras ou frases, dependendo da velocidade de pronúncia da pessoa. Caso seja necessário, use a função para desacelerar/acelerar ```speedChange()```.
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
-
-
-
+```ㅤㅤ¯\_(ツ)_/¯ㅤㅤ```
